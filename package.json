@@ -1,6 +1,7 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"author": "Stephen Makenzi Waweru",
+	"description": "A project that explores the use npm for managing packages",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
